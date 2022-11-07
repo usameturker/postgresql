@@ -13,8 +13,8 @@ on delete cascade)
 
 insert into points 
 values
-(1 , 89)
-(2 , 71)
+(1 , 89),
+(2 , 71),
 (3, 79 ),
 (4, 57 ),
 (5, 22 ),
